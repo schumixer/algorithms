@@ -1,0 +1,4 @@
+https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/
+https://proglib.io/p/python-vscode
+https://www.anaconda.com/
+https://replit.com/
