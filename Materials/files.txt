@@ -1,1 +1,6 @@
 Grokking Algorithms. An illustrated guide for programmers and other curious people. Aditya Y. Bhargava 
+https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/
+https://proglib.io/p/python-vscode
+https://www.anaconda.com/
+https://replit.com/
+https://pythontutor.com/render.html#mode=display
