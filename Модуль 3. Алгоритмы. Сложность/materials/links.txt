@@ -1,4 +1,0 @@
-Сложности: https://techrocks.ru/2019/12/12/algorithms-and-data-structures-basics/, https://wiki.python.org/moin/TimeComplexity
-Хеш-таблица: https://www.youtube.com/watch?v=KyUTuwz_b7Q, https://pythonwife.com/dictionaries-in-python/
-Сортировка слиянием: https://pythobyte.com/merge-sort-in-python-59c4dd32/
-Очереди: https://realpython.com/queue-in-python/
